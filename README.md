@@ -8,7 +8,7 @@ I'm currently working on my CS50W and CS50ai
 
 * [Lottery Sim](https://github.com/SkyeEli/LotterySim), Simulate the number attempts to win the lottery!
 * [Collatz Conjecture](https://github.com/SkyeEli/Collatz-Conjecture), This shows the Collatz Conjecture in action and calculates the steps to 1.
-* [Final Project](https://github.com/SkyeEli/CS50-Final-Project), My final project for CS50, a web app using Django Framework.
+* [Imperium Galactica Web](https://github.com/SkyeEli/CS50-Final-Project), My final project for CS50, a web app using Django Framework.
  
 I have many other projects in-line with my studies that can be viewed here.
 
