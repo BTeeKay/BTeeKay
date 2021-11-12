@@ -1,6 +1,7 @@
 ## Hello there!
 
 I'm Brian, a Junior Software Developer, I recently finished Harvard's CS50x Computer Science course.
+
 I'm currently working on my CS50W and CS50ai
 
 ## My Projects
