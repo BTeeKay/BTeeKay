@@ -2,10 +2,11 @@
 
 I'm Brian, a Junior Software Developer, I recently finished Harvard's CS50x Computer Science course.
 
-I'm currently working on my CS50W and CS50ai
+I'm currently working on CS50W:Web Programming with Python and JavaScript and CS50AI:Introduction to Artificial Intelligence with Python
 
 ## My Projects
 
+* [CS50 Projects](https://github.com/SkyeEli/CS50), amalgamation of projects completed through CS50 course.
 * [Lottery Sim](https://github.com/SkyeEli/LotterySim), Simulate the number attempts to win the lottery!
 * [Collatz Conjecture](https://github.com/SkyeEli/Collatz-Conjecture), This shows the Collatz Conjecture in action and calculates the steps to 1.
 * [Imperium Galactica Web](https://github.com/SkyeEli/CS50-Final-Project), My final project for CS50, a web app using Django Framework.
