@@ -1,8 +1,8 @@
 ## Hello there!
 
-I'm Brian, I'm training to be a Software Developer, I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4) and previosuly studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/)
+I'm Brian, I'm training to be a Software Developer, I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4), studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/).
 
-I'm currently working on CS50W:Web Programming with Python and JavaScript and CS50AI:Introduction to Artificial Intelligence with Python
+I'm currently studying for a Professional Development Award in Software Development with [CodeClan](https://codeclan.com/)
 
 ## My Projects
 
