@@ -1,14 +1,13 @@
 ## Hello there!
 
-I'm Brian, I'm training to be a Software Developer, I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4) and studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/).
+I'm Brian, I'm a Junior Software Developer, I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4) and studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/).
 
 I'm currently studying for a Professional Development Award in Software Development with [CodeClan](https://codeclan.com/)
 
 ## My Projects
 
 * [CS50 Projects](https://github.com/SkyeEli/CS50), amalgamation of projects completed through CS50 course.
-* [Lottery Sim](https://github.com/SkyeEli/LotterySim), Simulate the number of attempts to win the lottery!
-* [Collatz Conjecture](https://github.com/SkyeEli/Collatz-Conjecture), This shows the Collatz Conjecture in action and calculates the steps to 1.
+* [CS50 Finance](https://youtu.be/3W1bfw5wBNM), Buy and sell stocks app using an API for current price and sqlite to keep track for authenticated users.
 * [Imperium Galactica Web](https://github.com/SkyeEli/CS50-Final-Project), My final project for CS50, a web app using Django Framework.
  
 I have many other projects in-line with my studies that can be viewed here.
