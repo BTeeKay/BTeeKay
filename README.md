@@ -7,6 +7,7 @@ I'm currently studying for a Professional Development Award in Software Developm
 ## My Projects
 
 * [CS50 Projects](https://github.com/SkyeEli/CS50), amalgamation of projects completed through CS50 course.
+* [Vending Machine](https://github.com/SkyeEli/VendingMachine) OOP Design for the brains of a Vending Machine, using Java and a TDD approach.
 * [CS50 Finance](https://youtu.be/3W1bfw5wBNM), Buy and sell stocks app using an API for current price and sqlite to keep track for authenticated users.
 * [Imperium Galactica Web](https://youtu.be/ztcza52SVbA), My final project for CS50, a web app using Django Framework.
  
