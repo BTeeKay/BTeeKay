@@ -5,7 +5,7 @@ I'm Brian, I'm a Junior Software Developer, I recently finished Harvard's [CS50x
 I'm currently studying for a Professional Development Award in Software Development with [CodeClan](https://codeclan.com/)
 
 ## Current Project
-My current project is a group project on a 4 person team. [2vs Tournament](https://github.com/SkyeEli/2vs-Tournament) This is a Web App using a React.js front end and a Spring back end. The app will let a user to have a database of players and create tournaments around them.
+Currently working on a group project on a 4 person team. [2vs Tournament](https://github.com/SkyeEli/2vs-Tournament) This is a Web App using a React.js front end and a Spring back end. The app will let a user to have a database of players and create tournaments around them.
 
 ## My Projects
 
