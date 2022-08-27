@@ -2,7 +2,7 @@
 
 I'm Brian, I'm a Junior Software Developer, I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4) and studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/).
 
-I'm have just attained a Professional Development Award in Software Development with [CodeClan](https://codeclan.com/)
+I have just attained a Professional Development Award in Software Development with [CodeClan](https://codeclan.com/)
 
 ## Current Project
 Currently working on a group project on a 4 person team. [2vs Tournament](https://github.com/SkyeEli/2vs-Tournament) This is a Web App using a React.js front end and a Spring back end. The app will let a user to have a database of players and create tournaments around them.
