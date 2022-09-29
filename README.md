@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Brian, I'm a Junior Software Developer at [ClearSky Logic] (https://www.clearskylogic.com/)
+I'm Brian, I'm a Junior Software Developer at [ClearSky Logic](https://www.clearskylogic.com/)
 
 I recently finished Harvard's [CS50x Computer Science course](https://certificates.cs50.io/bac5263f-dd0f-4d61-8e47-0624fe22007e.png?size=A4) and studied Computing at [New College Lanarkshire](https://www.nclanarkshire.ac.uk/).
 
