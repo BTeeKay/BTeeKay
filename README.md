@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Brian, I'm a Software Engineer at UBS working with Java, Dotnet, Python, Ansible and Azure.
+I'm Brian a Software Engineer at UBS working with Java, Dotnet, Python, Ansible and Azure.
 
 ## Contact Me
 
